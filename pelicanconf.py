@@ -27,13 +27,13 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = "theme-brutalist"
+THEME = "themes/theme-brutalist"
 
-FIRST_NAME = "Richard" 
+FIRST_NAME = "Richard"
 
 TWITTER_USERNAME = "@RichsUsername_"
 
 SITEDESCRIPTION = "Blog by Richard Henderson. Theme provided by David Bryant Copeland\'s https://brutalist-web.design/"
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
