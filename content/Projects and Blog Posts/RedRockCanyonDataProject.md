@@ -1,3 +1,9 @@
+Title: Red Rock Mountain Trails_xd
+Date: 2022-03-01
+Tags: Python, Data Analysis,Data Visualization,Web Scraping
+Author: Richard Henderson
+Summary: Analyzing the hiking trails at Red Rock Mountain.
+
 ## Red Rock Canyon Data Project
 
 Hello. Welcome to my Red Rock Canyon project Notebook.
