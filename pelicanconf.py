@@ -27,7 +27,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = "themes/theme-brutalist"
+THEME = "themes/vocepelicantheme"
 
 FIRST_NAME = "Richard"
 
