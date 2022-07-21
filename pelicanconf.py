@@ -1,5 +1,5 @@
 AUTHOR = 'Richard Henderson'
-SITENAME = 'RichardHendersonTechStuff'
+SITENAME = ''
 SITEURL = ''
 
 PATH = 'content'
@@ -27,7 +27,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = "themes/vocepelicantheme"
+THEME = "themes/attila"
 
 FIRST_NAME = "Richard"
 
