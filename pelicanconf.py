@@ -27,7 +27,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = "themes/attila"
+THEME = "themes/hyde"
 
 FIRST_NAME = "Richard"
 
