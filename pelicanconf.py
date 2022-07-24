@@ -27,7 +27,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-THEME = "themes/hyde"
+THEME = "themes/Flex-master"
 
 FIRST_NAME = "Richard"
 
