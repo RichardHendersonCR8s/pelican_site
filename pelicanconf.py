@@ -1,6 +1,12 @@
 AUTHOR = 'Richard Henderson'
-SITENAME = ''
-SITEURL = ''
+SITENAME = "Richard Henderson's Blog"
+SITEURL = 'http://RichardHenderson.dev'
+SITETITLE = "Richard Henderson"
+SITESUBTITLE = "Data Analyst"
+SITEDESCRIPTION = "Richard Henderson's thoughts and content."
+
+BROWSER_COLOR =
+
 
 PATH = 'content'
 
@@ -28,6 +34,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 THEME = "themes/Flex-master"
+
 
 FIRST_NAME = "Richard"
 
