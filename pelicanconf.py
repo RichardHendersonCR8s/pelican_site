@@ -5,7 +5,7 @@ SITETITLE = "Richard Henderson"
 SITESUBTITLE = "Data Analyst"
 SITEDESCRIPTION = "Richard Henderson's thoughts and content."
 
-BROWSER_COLOR =
+#BROWSER_COLOR =
 
 
 PATH = 'content'
