@@ -1,2 +1,4 @@
 pelican[Markdown]
 invoke
+Pygments
+pygments-style-github
