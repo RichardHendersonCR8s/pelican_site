@@ -1,7 +1,7 @@
 Title: Welcome To My Blog
 Date: 2022-07-13
 Author: Richard Henderson
-Summary: First Blog Post.
+Summary: Welcome!
 
 
 ## Yada Yada
