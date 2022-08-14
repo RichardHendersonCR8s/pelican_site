@@ -1,8 +1,8 @@
 from datetime import datetime
 
-AUTHOR = 'Richard Henderson'
-SITENAME = "From the mind of Ricard Henderson..."
-SITEURL = 'http://RichardHenderson.dev'
+AUTHOR = "Richard Henderson"
+SITENAME = "Richard Henderson - Data Analyst"
+SITEURL = "http://RichardHenderson.dev"
 SITETITLE = "Richard Henderson"
 SITESUBTITLE = "Data Analyst"
 SITEDESCRIPTION = "From the mind of Richard Henderson..."
