@@ -44,7 +44,7 @@ MENUITEMS = (
 # Social widget
 SOCIAL = (('github', 'https://github.com/RichardHendersonCR8s'),
           ('twitter', 'https://twitter.com/RH_Loves_Data'),
-          ('linkedin','https://www.linkedin.com/in/richard-henderson-716010207/')
+          ('linkedin','https://www.linkedin.com/in/richard-henderson-716010207/'),
           ('kaggle','https://www.kaggle.com/richardsusername'))
 
 DEFAULT_PAGINATION = 10
