@@ -43,8 +43,9 @@ MENUITEMS = (
 
 # Social widget
 SOCIAL = (('github', 'https://github.com/RichardHendersonCR8s'),
-          ('twitter', 'https://twitter.com/richsUsername_'),
-          ('linkedin','https://www.linkedin.com/in/richard-henderson-716010207/'))
+          ('twitter', 'https://twitter.com/RH_Loves_Data'),
+          ('linkedin','https://www.linkedin.com/in/richard-henderson-716010207/')
+          ('kaggle','https://www.kaggle.com/richardsusername'))
 
 DEFAULT_PAGINATION = 10
 
@@ -53,9 +54,7 @@ THEME = "themes/Flex-master"
 
 FIRST_NAME = "Richard"
 
-TWITTER_USERNAME = "@RichsUsername_"
-
-SITEDESCRIPTION = "Blog by Richard Henderson. Theme provided by David Bryant Copeland\'s https://brutalist-web.design/"
+TWITTER_USERNAME = "@RH_Loves_Data"
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
