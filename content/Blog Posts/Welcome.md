@@ -1,7 +1,8 @@
-Title: Welcome To My Blog
+Title: The First Official Blog Post
 Date: 2022-07-13
 Author: Richard Henderson
 Summary: Welcome!
+Tags: Website-Meta
 
 
 Hey all! Welcome to my website. For the most part, I wanted to keep things simple here. For the most part, this website is separated into three seconds.
